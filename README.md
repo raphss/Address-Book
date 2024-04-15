@@ -2,32 +2,32 @@
 
 > Version 1.0
 
-[![Download Application][url-image]][url]
+[![Baixar Aplicação][url-image]][url]
 
 <p align="center">
     <img src="address.png" alt="Address App" width="600">
 </p>
 
-## About
+## Sobre
 
-A simple address book desktop application. Developed in Java.
+Um simples aplicativo de agenda de endereços para desktop. Desenvolvido em Java.
 
-## How to Contribute
+## Como Contribuir
 
-1. Fork the repository
-2. Create a branch for your feature (git checkout -b feature/MyFeature)
-3. Commit your changes (git commit -am 'Add a new feature')
-4. Push to the branch (git push origin feature/MyFeature)
-5. Open a Pull Request
+1. Faça um fork do repositório
+2. Crie uma branch para sua feature (`git checkout -b feature/MinhaFeature`)
+3. Faça commit das suas mudanças (`git commit -am 'Adiciona uma nova feature'`)
+4. Faça push para a branch (`git push origin feature/MinhaFeature`)
+5. Abra um Pull Request
 
-## License
+## Licença
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
-## Contact
+## Contato
 
 - Raphael Vilete - [raphvilete@gmail.com](mailto:raphvilete@gmail.com)
 
 <!-- Markdown link & img dfn's -->
 [url]: https://github.com/raphss/Address-Book/raw/main/dist/agenda.exe
-[url-image]: https://img.shields.io/badge/Download_Application-gray
+[url-image]: https://img.shields.io/badge/Baixar_Aplicação-gray
