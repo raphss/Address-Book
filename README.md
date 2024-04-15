@@ -1,6 +1,6 @@
 # Address-Book
 
-> Version 1.0
+> Versão 1.0
 
 [![Baixar Aplicação][url-image]][url]
 
@@ -10,7 +10,7 @@
 
 ## Sobre
 
-Um simples aplicativo de agenda de endereços para desktop. Desenvolvido em Java.
+Um simples aplicativo de agenda de contatos para desktop. Desenvolvido em Java.
 
 ## Como Contribuir
 
