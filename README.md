@@ -10,7 +10,7 @@
 
 ## Sobre
 
-Um simples aplicativo de agenda de contatos para desktop. Desenvolvido em Java.
+Um simples aplicativo de agenda de contatos para desktop. Desenvolvido em Java e com acesso ao banco de dados (H2DB).
 
 ## Como Contribuir
 
